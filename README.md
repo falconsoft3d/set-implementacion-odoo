@@ -1,2 +1,2 @@
-# set-implementacion-odoo
-Set de Implementación Odoo ERP
+# Set de Implementacion de Odoo
+Conjunto de plantillas para cargar la información en Odoo ERP
